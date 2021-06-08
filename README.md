@@ -11,8 +11,6 @@
 | H16A|	 Thu 16:00 - 18:00|	 Rui	|  [link](https://us02web.zoom.us/j/83907740986?pwd=b0tJMlBJNGpBTkk0Mk01b1JkQTNaZz09)| 	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FbGloHuJf92plEATVT76GOX)
 
 
-![image](https://user-images.githubusercontent.com/27357380/121164111-b1480680-c892-11eb-9735-d4385a9d3e36.png)
-
 
 ## Lab1  
 --------------------------------  
