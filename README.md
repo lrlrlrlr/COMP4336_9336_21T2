@@ -1,5 +1,6 @@
 # COMP4336_9336_21T2
 
+## Tutorial Timetable
 | Tutorial_ID	|Time|	Tutor|	Zoom link|	Recording Link|
 |-------------|----|-------|-----------|---------------|
 |T12A|	Tue 12:00 - 14:00|	Wei	  | [link](https://unsw.zoom.us/my/weisonglabs) |	[link](https://drive.google.com/drive/folders/1c66aiem3LrNVdekhe6oGm_eC_nn_DnAG)
@@ -10,7 +11,7 @@
 |H14A|	Thu 14:00 - 16:00|	Gary	| [link](https://unsw.zoom.us/j/4245058685)| - 
 | H16A|	 Thu 16:00 - 18:00|	 Rui	|  [link](https://us02web.zoom.us/j/83907740986?pwd=b0tJMlBJNGpBTkk0Mk01b1JkQTNaZz09)| 	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FbGloHuJf92plEATVT76GOX)
 
-
+--------------------------------
 
 ## Lab1  
 --------------------------------  
