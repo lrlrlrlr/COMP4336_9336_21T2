@@ -30,6 +30,8 @@
 
 
  ### Basic operation of wireshark
+ [learn wireshark in 10min](https://www.youtube.com/watch?v=lb1Dw0elw0Q)  
+ You should be able to:  
  - capture the packet
  - open a .cap file
  - apply a filter
