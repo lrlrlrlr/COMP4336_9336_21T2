@@ -30,6 +30,7 @@
 
 
  ### Basic operation of wireshark
+ - capture the packet
  - open a .cap file
  - apply a filter
  - create/remove a column
@@ -37,10 +38,17 @@
 --------------------------------  
 
 ## Lab2 
-
+(underconstruction, coming soon...)
 Task1:
+  - what we need to do?
+  - how?
 
 Task2:
+  - how to capture
 
+General questions:
+ - I can't capture the packet with wireshark/Microsoft Network Monitor.
+ - I can't capture 802.11 packet.
+ - There is only signal strength but no noise lvl and SNR ratio?
 
 --------------------------------  
