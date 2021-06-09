@@ -29,8 +29,18 @@
   - Npcap: you may also need to install this to make Microsoft Network Monitor 3.4 working properly. [link](https://nmap.org/npcap/)
 
 
-
+ ### Basic operation of wireshark
+ - open a .cap file
+ - apply a filter
+ - create/remove a column
+ - output to .CSV file
 --------------------------------  
 
 ## Lab2 
+
+Task1:
+
+Task2:
+
+
 --------------------------------  
