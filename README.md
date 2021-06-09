@@ -14,6 +14,22 @@
 --------------------------------
 
 ## Lab1  
+ ### Installation
+  #### Mac
+  - Wireshark: to analyse the packets. [download link](https://www.wireshark.org/download.html)
+ #### Linux
+  - Wireshark: to analyse the packets.   
+   
+       Installation command:  
+       `sudo apt install wireshark`  
+   
+ #### Windows 10
+  - Wireshark: to analyse the packets. [download link](https://www.wireshark.org/download.html)
+  - Microsoft Network Monitor 3.4: to collect the 802.11 packets. [download link](https://www.microsoft.com/en-us/download/details.aspx?id=4865)
+  - Npcap: you may also need to install this to make Microsoft Network Monitor 3.4 working properly. [link](https://nmap.org/npcap/)
+
+
+
 --------------------------------  
 
 ## Lab2 
