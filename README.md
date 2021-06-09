@@ -52,6 +52,7 @@ Task2:
 General questions:
  - I can't capture the packet with wireshark/Microsoft Network Monitor.
  - I can't capture 802.11 packet.
+ - There is no SSID information inside the packet.
  - There is only signal strength but no noise lvl and SNR ratio?
 
 --------------------------------  
