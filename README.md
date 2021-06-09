@@ -64,6 +64,12 @@ Task2:
 
 --------------------------------  
 
+
+
+## How can I get help?  
+ - post it on the forum.  
+ - join any of the online tutorials.  
+
 **Important: this is not the official support from COMP4336/9336, all the information here is for reference only.**  
  
 **If you have any doubt/question, please post them into the Moodle forum.**
