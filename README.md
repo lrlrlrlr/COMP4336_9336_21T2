@@ -12,7 +12,6 @@
 | H16A|	 Thu 16:00 - 18:00|	 Rui	|  [link](https://us02web.zoom.us/j/83907740986?pwd=b0tJMlBJNGpBTkk0Mk01b1JkQTNaZz09)| 	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FbGloHuJf92plEATVT76GOX)
 
 --------------------------------
-
 ## Lab1  
  ### Installation
   #### Mac
@@ -49,10 +48,20 @@ Task1:
 Task2:
   - how to capture
 
-General questions:
- - I can't capture the packet with wireshark/Microsoft Network Monitor.
- - I can't capture 802.11 packet.
- - There is no SSID information inside the packet.
- - There is only signal strength but no noise lvl and SNR ratio?
+**General questions**:
+ - I can't capture the packet with Wireshark/Microsoft Network Monitor.  
+         --> You may need to have a look at your configuration, for win10, you may need to install npcap and reboot before you start to capture. For more help please post your problem at the forum.
+ - I can't capture 802.11 packets.  
+         --> this may happen since some wireless network card does not support us to get the raw 802.11 packets, but you may be able to find some TCP/UDP packets that have "signal strength", then you can use them to finish your task.
+
+    
+ - There is no SSID information inside the packet.  
+         --> this is normal in win10, just descript what happened in your report.
+ - There is only signal strength but no noise lvl and SNR ratio?  
+         --> this is normal in win10, just descript what happened in your report.
+ 
 
 --------------------------------  
+
+**Important: this is not the official support from COMP4336/9336, all the information here is for reference only.**
+**If you have any doubt/question, please post them into the Moodle forum.**
