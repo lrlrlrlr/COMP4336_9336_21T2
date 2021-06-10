@@ -40,8 +40,8 @@
 --------------------------------  
 
 ## Lab2 
-[lab recording](#todo)  
-(underconstruction, coming by Friday...)  
+[lab recording](https://youtu.be/5gnzImIi8us)  
+
 Task1 - key steps:
   - Apply a SSID filter:  `wlan.ssid==SSID_NAME`
   - Create a new column:  Select the information, then Right click it, Apply as Column.
@@ -66,7 +66,8 @@ Task2:
  - There is only signal strength but no noise lvl and SNR ratio?  
          --> this is normal in win10, just descript what happened in your report.
  
-
+ - How to turn on the Monitor mode (in order to capture the raw 802.11 packets) in MAC?  
+         --> please refer to [this document](https://github.com/lrlrlrlr/COMP4336_9336_21T2/blob/main/macOS%20'Monitor'%20issue.pdf)
 --------------------------------  
 
 
