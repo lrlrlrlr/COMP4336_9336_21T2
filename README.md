@@ -40,14 +40,19 @@
 --------------------------------  
 
 ## Lab2 
-[lab recording](#todo)
-(underconstruction, coming soon...)  
-Task1:
-  - what we need to do?
-  - how?
+[lab recording](#todo)  
+(underconstruction, coming by Friday...)  
+Task1 - key steps:
+  - Apply a SSID filter:  `wlan.ssid==SSID_NAME`
+  - Create a new column:  Select the information, then Right click it, Apply as Column.
+  - Export CSV: File - Export Packet Dissections - As CSV...
+  - Plot: You can plot the graph with Excel or Python.
 
 Task2:
-  - how to capture
+  - How to capture: 
+    - Mac/Linux: Use Wireshark
+    - Win10: Use Microsoft Network Monitor 3.4
+
 
 **General questions**:
  - I can't capture the packet with Wireshark/Microsoft Network Monitor.  
