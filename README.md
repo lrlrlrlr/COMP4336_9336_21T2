@@ -73,16 +73,17 @@ Task2:
 
 ## Lab3   
 
-How to calculate the slope?
-	- Linear Regression ([Excel](https://www.youtube.com/watch?v=L_a8Z0BVjyM&ab_channel=MonaSchraer) , [numpy](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html))
+ - How to calculate the slope?
+	- Linear Regression ([Excel](https://www.youtube.com/watch?v=L_a8Z0BVjyM&ab_channel=MonaSchraer) , [numpy](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html))  
 	- Drop the *outlier* if needed	
 
-How to calculate the R-squared ?
-	- simply use the [calculator](https://ncalculators.com/statistics/r-squared-calculator.htm)
+ - How to calculate the R-squared ?  
+	- simply use the [calculator](https://ncalculators.com/statistics/r-squared-calculator.htm)  
 
-What if I can’t capture the packets?
- - Borrow a laptop
- - Buy a wireless adapter [example](https://www.kogan.com/au/buy/timetech-australia-usb-wifi-wireless-n-300m-adapter-wi-fi-dongle-high-signal-gain-80211ngb-6595190423749-39667288572101/?utm_source=google&utm_medium=product_listing_ads&gclid=CjwKCAjw_JuGBhBkEiwA1xmbRU3QRyBFBKzhLe1AGVTXb7eelCgkqiWQBI9rR2VRSKc4WjiDxRweXBoC_g8QAvD_BwE)
+ - What if I can’t capture the packets? 
+    - Make sure your configuration is correct.  
+    - Borrow a laptop  
+    - Buy a wireless adapter [example](https://www.kogan.com/au/buy/timetech-australia-usb-wifi-wireless-n-300m-adapter-wi-fi-dongle-high-signal-gain-80211ngb-6595190423749-39667288572101/?utm_source=google&utm_medium=product_listing_ads&gclid=CjwKCAjw_JuGBhBkEiwA1xmbRU3QRyBFBKzhLe1AGVTXb7eelCgkqiWQBI9rR2VRSKc4WjiDxRweXBoC_g8QAvD_BwE)
 
 -------------------------------- 
 
