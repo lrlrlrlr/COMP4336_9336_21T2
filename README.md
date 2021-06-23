@@ -85,8 +85,37 @@ Task2:
     - Borrow a laptop  
     - Buy a wireless adapter [example](https://www.kogan.com/au/buy/timetech-australia-usb-wifi-wireless-n-300m-adapter-wi-fi-dongle-high-signal-gain-80211ngb-6595190423749-39667288572101/?utm_source=google&utm_medium=product_listing_ads&gclid=CjwKCAjw_JuGBhBkEiwA1xmbRU3QRyBFBKzhLe1AGVTXb7eelCgkqiWQBI9rR2VRSKc4WjiDxRweXBoC_g8QAvD_BwE)
 
--------------------------------- 
+--------------------------------
 
+## Lab4   
+
+ - How many dataset (.csv files)?
+ 	- 4 csv file should be submitted:  3x with obstacle + 1x without obstacle
+ 	
+
+ - What kind of graph should I use in the report?
+ 	- Violin plot recommended
+ 	- You can use any kind of plot as you want, as your can clearly show the distribution of RSS
+ 
+ - How to choose Band/Frequency for your hotspots?
+	- Android: it will be very easy, please have a check of your hotspot configuration.
+	- Laptop: it will be very easy, please have a check of your hotspot configuration.
+	- iPhone: You may not be able to switch the band as you want with iPhone, if you are using iPhone 12, then have a try [here](https://www.idownloadblog.com/2020/11/04/iphone-personal-hotspot-wi-fi-bands-tutorial/)
+
+
+ - I can only capture 10 packets per minute?
+  	- You can increase the traffic between your device and hotspot. By:
+		 - Play an online video while capturing
+	 	 - Use ping command while capturing
+
+ - My RSSI or Signal strength is positive?
+	 - Since RSSI is a completely arbitrary value that has no relationship to any particular physical parameter, it can also be represented in a positive form, where the RSSI value is 0 to 100, with 100 being the strongest signal possible.
+
+
+
+
+--------------------------------
+## You may find [this](https://github.com/lrlrlrlr/COMP4336_9336_21T2/blob/main/Quiz_samples.pdf) is useful for your quiz preparation.
 
 ## How can I get help?  
  - post it on the forum.  
