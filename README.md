@@ -111,10 +111,19 @@ Task2:
  - My RSSI or Signal strength is positive?
 	 - Since RSSI is a completely arbitrary value that has no relationship to any particular physical parameter, it can also be represented in a positive form, where the RSSI value is 0 to 100, with 100 being the strongest signal possible.
 
+--------------------------------
 
+## Lab5  
+
+ - Can not observe the data rate change?  
+	 - Try different distance, if possible, try outdoor(you can have more distance)
+
+ - Still not working?  
+	 - A sample is provided in [this link](https://www.dropbox.com/s/2xssie4i8txh05e/Lab%205%20sample%20dataset.zip?dl=0)
 
 
 --------------------------------
+
 ## You may find [this](https://github.com/lrlrlrlr/COMP4336_9336_21T2/blob/main/Quiz_samples.pdf) is useful for your quiz preparation.
 
 ## How can I get help?  
