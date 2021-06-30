@@ -118,8 +118,9 @@ Task2:
  - Can not observe the data rate change?  
 	 - Try different distance, if possible, try outdoor(you can have more distance)
 
- - Still not working?  
-	 - A sample is provided in [this link](https://www.dropbox.com/s/2xssie4i8txh05e/Lab%205%20sample%20dataset.zip?dl=0)
+ - Still not working (can not capture any packet with MCS index and data rate)?  
+	 - A sample is provided in [this link](https://www.dropbox.com/s/2xssie4i8txh05e/Lab%205%20sample%20dataset.zip?dl=0) 
+	 - Note: if you are using this sample dataset, you should specify in your report, and tell us the reason why you can not capture the packets by yourself.
 
 
 --------------------------------
