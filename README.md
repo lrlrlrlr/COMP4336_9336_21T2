@@ -120,7 +120,7 @@ Task2:
 
  - Still not working (can not capture any packet with MCS index and data rate)?  
 	 - A sample is provided in [this link](https://www.dropbox.com/s/2xssie4i8txh05e/Lab%205%20sample%20dataset.zip?dl=0) 
-	 - Note: if you are using this sample dataset, you should specify in your report, and tell us the reason why you can not capture the packets by yourself.
+	 - Note: if you are using this sample dataset, you should specify in your report, and tell us the reason why you can not capture the packets by yourself. If you failed to prove your effort, you might lose the mark on data collection part.
 
 
 --------------------------------
