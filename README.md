@@ -122,6 +122,16 @@ Task2:
 	 - A sample is provided in [this link](https://www.dropbox.com/s/2xssie4i8txh05e/Lab%205%20sample%20dataset.zip?dl=0) 
 	 - Note: if you are using this sample dataset, you should specify in your report, and tell us the reason why you can not capture the packets by yourself. If you failed to prove your effort, you might lose the mark on data collection part.
 
+--------------------------------
+
+## Lab8
+ -  Notice: the old lab9(Gesture detection with WiFi RSS) is switch to lab8 now;
+ -  What if I can not get the 50-100 packets per second in the task?  
+	 -  It doesn't matter, just try your best to get as much as you can.  
+ -  How to have the regular intervals for each packets?  
+ 	-  You can use the ping command to get a stable interval.Limited to the accuracy of our equipment, the interval time does not need to be very precise, such as 0.1s, 0.13s and 0.9s. We can roughly think that their intervals are equal.
+
+
 
 --------------------------------
 
