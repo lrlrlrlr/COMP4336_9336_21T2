@@ -10,8 +10,15 @@
 |W16A|	Wed 16:00 - 18:00|	Gary	| [link](https://unsw.zoom.us/j/4245058685)|	-
 |H14A|	Thu 14:00 - 16:00|	Gary	| [link](https://unsw.zoom.us/j/4245058685)| - 
 | H16A|	 Thu 16:00 - 18:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)| 	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FbGloHuJf92plEATVT76GOX)
+--------------------------------  
 
---------------------------------
+## Project  
+### Due time changed to: 
+### Flexibility for the project:
+### Help session:
+
+--------------------------------  
+
 ## Lab1  
  ### Installation
   #### Mac
