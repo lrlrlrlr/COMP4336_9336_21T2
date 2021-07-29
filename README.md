@@ -14,8 +14,22 @@
 
 ## Project  
 ### Due time changed to: 
-### Flexibility for the project:
+	**4pm 05 August**
+### Flexibility for the project:  
+1. You can extend your gesture duration (for example, you can design a 6 seconds gesture)  
+2. Object in the hands is allowed, you can have an object in your hand.  
+3. You can use different platforms to do the project, e.g. RaspberryPI, Arduino.  
+
 ### Help session:
+## Tutorial Timetable
+| Help session	|Time|	Tutor|	Zoom link|	Recording Link|
+|-------------|----|-------|-----------|---------------|
+|1|	Mon 10:00 - 12:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)|
+|2|	Mon 18:00 - 20:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)|
+|3|	Tue 10:00 - 12:00|	Wei	  | [link](https://unsw.zoom.us/my/weisonglabs)|
+|4|	Tue 18:00 - 20:00|	 Gary	|  [link](https://unsw.zoom.us/j/4245058685)|	
+|5|	 Wed 10:00 - 12:00|	 Wei	  | [link](https://unsw.zoom.us/my/weisonglabs)|
+|6|	 Wed 18:00 - 20:00|	 Gary	|  [link](https://unsw.zoom.us/j/4245058685)|	
 
 --------------------------------  
 
