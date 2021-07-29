@@ -22,8 +22,8 @@
 
 ### Help session:
 ## Tutorial Timetable
-| Help session	|Time|	Tutor|	Zoom link|	Recording Link|
-|-------------|----|-------|-----------|---------------|
+| Help session	|Time|	Tutor|	Zoom link|	
+|-------------|----|-------|-----------|
 |1|	Mon 10:00 - 12:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)|
 |2|	Mon 18:00 - 20:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)|
 |3|	Tue 10:00 - 12:00|	Wei	  | [link](https://unsw.zoom.us/my/weisonglabs)|
