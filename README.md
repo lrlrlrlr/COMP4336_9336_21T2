@@ -1,17 +1,5 @@
 # COMP4336_9336_21T2
 
-## Tutorial Timetable
-| Tutorial_ID	|Time|	Tutor|	Zoom link|	Recording Link|
-|-------------|----|-------|-----------|---------------|
-|T12A|	Tue 12:00 - 14:00|	Wei	  | [link](https://unsw.zoom.us/my/weisonglabs) |	[link](https://drive.google.com/drive/folders/1c66aiem3LrNVdekhe6oGm_eC_nn_DnAG)
-|T14A|	Tue 14:00 - 16:00|	Wei	  | [link](https://unsw.zoom.us/my/weisonglabs)|	[link](https://drive.google.com/drive/folders/1c66aiem3LrNVdekhe6oGm_eC_nn_DnAG)
-| T18A|	 Tue 18:00 - 20:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)|	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FbRCpqOxxMzq5jzlehaX6E0)
-| W14A|	 Wed 14:00 - 16:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)|	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FazqYHua7-xroReksn1-q-H)
-|W16A|	Wed 16:00 - 18:00|	Gary	| [link](https://unsw.zoom.us/j/4245058685)|	-
-|H14A|	Thu 14:00 - 16:00|	Gary	| [link](https://unsw.zoom.us/j/4245058685)| - 
-| H16A|	 Thu 16:00 - 18:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)| 	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FbGloHuJf92plEATVT76GOX)
---------------------------------  
-
 ## Project  
 ### Due time changed to: 
 	**4pm 05 August**
@@ -32,6 +20,19 @@
 |6|	 Wed 18:00 - 20:00|	 Gary	|  [link](https://unsw.zoom.us/j/4245058685)|	
 
 --------------------------------  
+
+## Tutorial Timetable
+| Tutorial_ID	|Time|	Tutor|	Zoom link|	Recording Link|
+|-------------|----|-------|-----------|---------------|
+|T12A|	Tue 12:00 - 14:00|	Wei	  | [link](https://unsw.zoom.us/my/weisonglabs) |	[link](https://drive.google.com/drive/folders/1c66aiem3LrNVdekhe6oGm_eC_nn_DnAG)
+|T14A|	Tue 14:00 - 16:00|	Wei	  | [link](https://unsw.zoom.us/my/weisonglabs)|	[link](https://drive.google.com/drive/folders/1c66aiem3LrNVdekhe6oGm_eC_nn_DnAG)
+| T18A|	 Tue 18:00 - 20:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)|	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FbRCpqOxxMzq5jzlehaX6E0)
+| W14A|	 Wed 14:00 - 16:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)|	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FazqYHua7-xroReksn1-q-H)
+|W16A|	Wed 16:00 - 18:00|	Gary	| [link](https://unsw.zoom.us/j/4245058685)|	-
+|H14A|	Thu 14:00 - 16:00|	Gary	| [link](https://unsw.zoom.us/j/4245058685)| - 
+| H16A|	 Thu 16:00 - 18:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)| 	 [link](https://www.youtube.com/playlist?list=PL62Uy8LvT4FbGloHuJf92plEATVT76GOX)
+--------------------------------  
+
 
 ## Lab1  
  ### Installation
