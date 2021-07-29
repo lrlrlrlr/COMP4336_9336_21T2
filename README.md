@@ -9,7 +9,7 @@
 3. You can use different platforms to do the project, e.g. RaspberryPI, Arduino.  
 
 ### Help session:
-## Tutorial Timetable
+## Project Consultation session:
 | Help session	|Time|	Tutor|	Zoom link|	
 |-------------|----|-------|-----------|
 |1|	Mon 10:00 - 12:00|	 Rui	|  [link](https://unsw.zoom.us/my/ruilabs)|
